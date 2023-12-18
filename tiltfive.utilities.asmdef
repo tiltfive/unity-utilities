@@ -1,0 +1,16 @@
+{
+    "name": "TiltFive.Utilities",
+    "references": [
+        "TiltFive",
+        "Unity.InputSystem",
+        "Unity.TextMeshPro"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

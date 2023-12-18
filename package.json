@@ -1,0 +1,27 @@
+{
+  "name": "com.tiltfive.utilities",
+  "version": "1.0.0",
+  "displayName": "Tilt Five Utilities",
+  "description": "A collection of useful tools for Tilt Five applications",
+  "unity": "2019.4",
+  "documentationUrl": "https://docs.tiltfive.com/unity_api/",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "com.tiltfive.sdk": "1.4.0"
+  },
+  "keywords": [
+    "ar",
+    "augmented",
+    "reality",
+    "tools",
+    "Tilt Five",
+    "utility",
+    "utilities",
+    "xr"
+  ],
+  "author": {
+    "name": "Tilt Five, Inc.",
+    "email": "devrel@tiltfive.com",
+    "url": "https://www.tiltfive.com"
+  }
+}
