@@ -1,5 +1,5 @@
 # Tilt Five Utilities Package for Unity
-Version 1.0.0
+Version 1.0.1
 
 ## Dependencies
 

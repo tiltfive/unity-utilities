@@ -1,6 +1,6 @@
 {
   "name": "com.tiltfive.utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Tilt Five Utilities",
   "description": "A collection of useful tools for Tilt Five applications",
   "unity": "2019.4",
